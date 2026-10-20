@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:061A35,100:00BFFF&height=170&section=header&text=DAVI%20MOREIRA&fontSize=45&fontColor=E0F7FF&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20IT%20TECHNICIAN&descAlignY=58&descSize=15&animation=fadeIn" alt="Davi Moreira — Software Developer" />
+<p>
+  <code>Software Developer</code> •
+  <code>IT Technician</code> •
+  <code>Brazil</code>
+</p>
 
-<a href="https://github.com/moreiradv">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+profile...;%3E+JavaScript+%7C+Python+%7C+Web+Development;%3E+Building+ideas+into+real+solutions.;%3E+Always+learning.+Always+building." alt="Animated terminal introduction" />
-</a>
-
-![Brazil](https://img.shields.io/badge/LOCATION-BRAZIL-071A2E?style=for-the-badge&labelColor=020617&color=008ECF)
-![Focus](https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-071A2E?style=for-the-badge&labelColor=020617&color=008ECF)
-![Status](https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-071A2E?style=for-the-badge&labelColor=020617&color=008ECF)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=35&lines=%3E+Initializing+developer+profile...;%3E+JavaScript+%7C+Python+%7C+Web+Development;%3E+Always+learning.+Always+building." alt="Typing animation"/>
 
 </div>
 
