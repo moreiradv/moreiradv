@@ -1,12 +1,17 @@
+
 <div align="center">
 
-<p>
-  <code>Software Developer</code> •
-  <code>IT Technician</code> •
-  <code>Brazil</code>
-</p>
+<img src="https://i.pinimg.com/originals/b5/64/5f/b5645ff5fe6a9191e89f90ce433aef64.gif" width="330" alt="Dexter Morgan GIF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=35&lines=%3E+Initializing+developer+profile...;%3E+JavaScript+%7C+Python+%7C+Web+Development;%3E+Always+learning.+Always+building." alt="Typing animation"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=35&lines=%3E+Initializing+developer+profile...;%3E+JavaScript+%7C+Python+%7C+Web+Development;%3E+Always+learning.+Always+building." alt="Typing animation" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Software-Developer-008ECF?style=flat-square&labelColor=020617" alt="Software Developer" />
+<img src="https://img.shields.io/badge/IT-Technician-008ECF?style=flat-square&labelColor=020617" alt="IT Technician" />
+<img src="https://img.shields.io/badge/Location-Brazil-008ECF?style=flat-square&labelColor=020617" alt="Brazil" />
 
 </div>
 
@@ -16,20 +21,19 @@
 
 ```bash
 $ whoami
-Davi Moreira
+moreiradv
 
 $ cat about.txt
 Brazilian developer with a technical background in Information Technology.
-Interested in software engineering, web development, cloud computing
-and artificial intelligence.
+Passionate about software development, technology and innovation.
 
 $ echo $MISSION
 "Build useful solutions. Write better code. Keep evolving."
 ```
 
-I enjoy combining **software development** with the foundations of **IT infrastructure**, learning new tools and applying technology to practical problems.
+I enjoy combining **software development** with the foundations of **IT infrastructure**, exploring new technologies and creating practical solutions.
 
-My current interests include **JavaScript, Python, modern web development, AI-assisted workflows and system architecture**.
+My interests include **JavaScript, Python, modern web development, artificial intelligence, cloud computing and system architecture**.
 
 ---
 
@@ -39,11 +43,15 @@ My current interests include **JavaScript, Python, modern web development, AI-as
 
 **`[ LANGUAGES & WEB ]`**
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,nextjs&theme=dark" alt="Languages and web technologies" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,nextjs&theme=dark" alt="Programming languages and web development" />
+
+<br><br>
 
 **`[ TOOLS & PLATFORMS ]`**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,arduino&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,arduino&theme=dark" alt="Development tools and platforms" />
+
+<br><br>
 
 **`[ CLOUD COMPUTING ]`**
 
@@ -59,8 +67,8 @@ My current interests include **JavaScript, Python, modern web development, AI-as
 [01] Improving JavaScript and Python development skills
 [02] Exploring scalable software and system architecture
 [03] Learning cloud concepts and AWS services
-[04] Experimenting with AI in development workflows
-[05] Building projects and documenting the process
+[04] Experimenting with AI-assisted development
+[05] Building projects and improving technical knowledge
 ```
 
 ---
@@ -81,22 +89,25 @@ My current interests include **JavaScript, Python, modern web development, AI-as
 
 > **Code. Learn. Debug. Improve. Repeat.**
 >
-> Technology is not just about writing code — it's about understanding problems and designing better solutions.
+> Technology is not just about writing code. It's about understanding problems, creating solutions and continuously improving.
+
+---
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/b5/64/5f/b5645ff5fe6a9191e89f90ce433aef64.gif" width="330" alt="Dexter animated GIF" />
+### `> connection.status`
 
-<sub><code>// a little personality in the terminal</code></sub>
+<img src="https://hits.sh/github.com/moreiradv.svg?label=PROFILE%20VIEWS&color=008ECF&labelColor=020617" alt="Profile Views" />
 
-<br/><br/>
+<br><br>
 
-<a href="https://github.com/moreiradv">
-<img src="https://komarev.com/ghpvc/?username=moreiradv&style=for-the-badge&label=PROFILE%20VIEWS&color=008ECF&labelColor=020617" alt="Profile views" />
-</a>
+<sub>Made with curiosity, caffeine and code.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:061A35,100:00BFFF&height=95&section=footer" alt="Blue neon footer" />
+<br>
+
+<sub><code>root@moreiradv:~$ exit</code></sub>
 
 </div>
+
 
 
